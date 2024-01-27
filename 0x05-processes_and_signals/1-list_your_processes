@@ -3,4 +3,4 @@
 # Display a user-oriented format
 # Show process hierarchy
 
-ps -a -x -u -f
+ps -auxf
