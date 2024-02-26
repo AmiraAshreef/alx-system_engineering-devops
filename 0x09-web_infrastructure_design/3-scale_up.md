@@ -1,4 +1,4 @@
-## Scalable and Secure Four-Server Web Infrastructure for www.foobar.com [invalid URL removed] [invalid URL removed]
+## Scalable and Secure Four-Server Web Infrastructure for www.foobar.com 
 
 **Whiteboard Design:**
 
